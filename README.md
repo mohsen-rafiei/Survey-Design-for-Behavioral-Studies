@@ -6,7 +6,7 @@
 
 Developed by **Mohsen Rafiei** and **Bahareh Jozranjbar** at [PUXLab](https://puxlab.com)
 
-[**Open the checklist**](survey-design-checklist.md) · [**Download the Word version**](survey-design-checklist-handout.docx) · [**Cite this work**](#cite-this-work)
+[**Open the checklist**](survey-design-checklist.md) ·  [**Cite this work**](#cite-this-work)
 
 </div>
 
