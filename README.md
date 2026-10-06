@@ -4,11 +4,6 @@
 
 ### A checklist of common mistakes and what to do instead
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-black.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-![Checklist items](https://img.shields.io/badge/checklist_items-78-black?style=flat-square)
-![References](https://img.shields.io/badge/references-113-black?style=flat-square)
-![Formats](https://img.shields.io/badge/formats-Markdown_and_Word-black?style=flat-square)
-
 Developed by **Mohsen Rafiei** and **Bahareh Jozranjbar** at [PUXLab](https://puxlab.com)
 
 [**Open the checklist**](survey-design-checklist.md) · [**Download the Word version**](survey-design-checklist-handout.docx) · [**Cite this work**](#cite-this-work)
