@@ -37,8 +37,7 @@ After the eight parts, the checklist collects the figures worth remembering in o
 
 1. Open [survey-design-checklist.md](survey-design-checklist.md) and work through the parts in order while drafting the instrument. Tick each box when the item has been dealt with or judged not to apply.
 2. To get clickable boxes, copy a part into a GitHub issue in your own project, or paste the whole file into a notes app that renders Markdown task lists.
-3. For printing or for handing out in a lab meeting or a methods class, use the [Word version](survey-design-checklist-handout.docx). It is set in Times New Roman with printed tick boxes.
-4. To adapt it for your own lab or course, fork the repository, edit the file, and keep the citation below.
+3. To adapt it for your own lab or course, fork the repository, edit the file, and keep the citation below.
 
 ## A few of the numbers
 
